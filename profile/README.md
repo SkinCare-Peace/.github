@@ -15,7 +15,6 @@ https://www.figma.com/design/Ahb5aNUIbc7hKTc3jDVRnD/%EC%96%91%EB%A7%90%ED%8C%80-
 
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Google]
 
 ### Back-end
 
