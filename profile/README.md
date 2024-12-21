@@ -52,6 +52,11 @@ Python 3.11 or higher
 <br/>
 
 ## 👍 Key features
+- **피부 분석 기능**🍎  <br/>
+Skin condition analysis through face recognition & model
+
+- **맞춤 루틴 생성**  <br/>
+customized routine based on skin analysis!
 
 - **깔끔한 ui** 😎 <br/>
 Dope & clean ui 😏
